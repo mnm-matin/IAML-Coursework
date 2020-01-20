@@ -1,7 +1,4 @@
-# INFR10069-2019
-This is the repository for the Second (graded) Assignment for IAML 2019.
-
-**N.B.: This is the Level 10 version of the course: if you are a Master's student, then you should go to the Level 11 version, [here](https://github.com/michael-camilleri/INFR11182-2019).**
+# ML-Techniques
 
 ## Repository Contents
 
@@ -37,5 +34,3 @@ We have provided this set of tools to aid in the coding up of the solutions. Mak
     ```
     python setup.py sdist --format=tar
     pip install dist/mpctools-0.3.20.tar --user
-    ```
-# ML-Techniques
